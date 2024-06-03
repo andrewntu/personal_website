@@ -1,0 +1,6 @@
+title: My Personal Site
+email: my-email@example.com
+description: "Welcome to my personal website!"
+baseurl: ""
+url: "https://your-username.github.io"
+theme: minima
