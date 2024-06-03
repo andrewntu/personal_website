@@ -17,5 +17,8 @@ Here are some of my publications:
 # Under Reviews
 
 1. **Multi-Mode Ambient Noise Double Beamforming Tomography across a linear dense array: Revealing Accretionary Wedge Architecture across Central Taiwan**
-2. 
-3. 
+
+# Manuscripts in Preparation
+
+1. **AutoQuake: An automatic system for real-time earthquake relocation**
+2. **Monitoring the Yellowstone Doublet Pool Thumping Cycle through temporal nodal deployments from 2015 to 2023**
