@@ -6,5 +6,6 @@ layout: home
 ---
 
 Hi, I'm Cheng-Nan Liu, a Highly motivated third-year Ph.D. student with extensive experience in time series data analysis and machine learning applications in Seismology. 
-Skilled in both independent research and collaborative projects, with multiple publications in leading geophysical journals..
+Skilled in both independent research and collaborative projects, with multiple publications in leading geophysical journals.
+
 Welcome to my personal website!
