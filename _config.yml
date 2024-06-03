@@ -9,6 +9,6 @@ navigation:
   - title: Home
     url: /
   - title: About
-    url: "https://andrewntu.github.io/personal_website/about/"
+    url: "/about/"
   - title: Publications
-    url: "https://andrewntu.github.io/personal_website/publications/"
+    url: "/publications/"
