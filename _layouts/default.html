@@ -1,21 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-</head>
-<body>
-  <nav>
-    <ul>
-      <li><a href="{{ "/" | relative_url }}">Home</a></li>
-      <li><a href="{{ "/about/" | relative_url }}">About</a></li>
-      <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
-    </ul>
-  </nav>
-  <div class="container">
-    {{ content }}
-  </div>
-</body>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container-fluid">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
 </html>
