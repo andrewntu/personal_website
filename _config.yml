@@ -5,6 +5,10 @@ baseurl: ""
 url: "https://andrewntu.github.io/personal_website/"
 theme: minima
 
+# Build settings
+plugins:
+  - jekyll-feed
+
 navigation:
   - title: Home
     url: /
@@ -12,3 +16,5 @@ navigation:
     url: "/about/"
   - title: Publications
     url: "/publications/"
+
+    
