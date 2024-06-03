@@ -1,6 +1,14 @@
 title: My Personal Site
-email: my-email@example.com
+email: Cheng-Nan.Liu@utah.edu
 description: "Welcome to my personal website!"
 baseurl: ""
-url: "https://your-username.github.io"
+url: "https://andrewntu.github.io"
 theme: minima
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Publications
+    url: /publications/
